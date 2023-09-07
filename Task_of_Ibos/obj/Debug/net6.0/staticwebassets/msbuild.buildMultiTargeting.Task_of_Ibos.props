@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Task_of_Ibos.props" />
+</Project>

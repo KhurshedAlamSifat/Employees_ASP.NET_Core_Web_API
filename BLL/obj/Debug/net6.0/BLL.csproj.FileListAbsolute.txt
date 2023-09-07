@@ -1,0 +1,15 @@
+E:\DotNetCore Practice\Task_of_Ibos\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\DotNetCore Practice\Task_of_Ibos\BLL\bin\Debug\net6.0\BLL.dll
+E:\DotNetCore Practice\Task_of_Ibos\BLL\bin\Debug\net6.0\BLL.pdb
+E:\DotNetCore Practice\Task_of_Ibos\BLL\bin\Debug\net6.0\DAL.dll
+E:\DotNetCore Practice\Task_of_Ibos\BLL\bin\Debug\net6.0\DAL.pdb
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.dll
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\BLL.pdb
+E:\DotNetCore Practice\Task_of_Ibos\BLL\obj\Debug\net6.0\ref\BLL.dll
